@@ -33,9 +33,11 @@
 
 Après exécution, voici un aperçu des fichiers :
 
-`C:\Users\[NomUtilisateur]\Desktop\
-│
-├── MonBackupMobaXtermProfile.zip`
+`C:\Users\[NomUtilisateur]\Desktop\`
+
+`│`
+
+`├── MonBackupMobaXterm.zip`
 
 
 ## Authors
