@@ -1,6 +1,6 @@
-# SaveMobaXtermProfile
+# MobaXtermProfileBackup
 
-**SaveMobaXtermProfile** est une application console en C# permettant de sauvegarder automatiquement le profil **MobaXterm** de l'utilisateur courant dans une archive ZIP sur le bureau. L'utilisateur peut choisir le nom de l'archive générée pour simplifier le processus de sauvegarde.
+**MobaXtermProfileBackup** est une application console en C# permettant de sauvegarder automatiquement le profil **MobaXterm** de l'utilisateur courant dans une archive ZIP sur le bureau. L'utilisateur peut choisir le nom de l'archive générée pour simplifier le processus de sauvegarde.
 
 ## Fonctionnalités
 
@@ -21,7 +21,7 @@
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/o2Cloud-fr/SaveMobaXtermProfile.git
+   git clone https://github.com/o2Cloud-fr/MobaXtermProfileBackup.git
 
 ## 🎯 Utilisation
 
@@ -77,7 +77,7 @@ C#
 
 ## License
 
-[Apache-2.0 license](https://github.com/o2Cloud-fr/SaveMobaXtermProfile/blob/main/LICENSE)
+[Apache-2.0 license](https://github.com/o2Cloud-fr/MobaXtermProfileBackup/blob/main/LICENSE)
 
 
 ![Logo](https://o2cloud.fr/logo/o2Cloud.png)
@@ -87,7 +87,7 @@ C#
 
 Here are some related projects
 
-[Awesome README](https://github.com/o2Cloud-fr/SaveMobaXtermProfile/blob/main/README.md)
+[Awesome README](https://github.com/o2Cloud-fr/MobaXtermProfileBackup/blob/main/README.md)
 
 
 ## Roadmap
