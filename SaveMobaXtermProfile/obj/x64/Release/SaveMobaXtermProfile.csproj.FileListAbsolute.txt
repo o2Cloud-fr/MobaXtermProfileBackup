@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\bin\x64\Release\SaveMobaXtermProfile.exe.config
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\bin\x64\Release\SaveMobaXtermProfile.exe
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\bin\x64\Release\SaveMobaXtermProfile.pdb
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\obj\x64\Release\SaveMobaXtermProfile.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\obj\x64\Release\SaveMobaXtermProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\obj\x64\Release\SaveMobaXtermProfile.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\obj\x64\Release\SaveMobaXtermProfile.exe
+C:\Users\MyAlien\source\repos\SaveMobaXtermProfile\SaveMobaXtermProfile\obj\x64\Release\SaveMobaXtermProfile.pdb
